@@ -1,4 +1,5 @@
 # Remove Upgrade Button for Proton
+<img width="429" height="118" alt="Untitled148_20261012113714" src="https://github.com/user-attachments/assets/5ce561bd-50c6-4b1d-b45f-1591610a7cd4" />
 
 *README.md by Deepseek IA*
 
@@ -25,6 +26,7 @@ A lightweight Userscript that removes every "Upgrade" promotion button from all 
 3. Paste the contents of `Remove Upgrade Button for Proton.user.js` into the editor.
 4. Save the script.
 
+- Easy installation: [Greasyfork](https://greasyfork.org/en/scripts/599797-remove-upgrade-button-for-proton) (Recommended)
 ---
 
 ## How It Works
